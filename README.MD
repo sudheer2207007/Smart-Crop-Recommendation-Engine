@@ -3,7 +3,7 @@
 This project predicts the **best suitable crops** based on soil properties and nutrients using **Machine Learning (XGBoost + SMOTE)**.  
 It also shows the **Top 3 recommended crops**.
 
----
+---live--------->>>>>https://smart-crop-recommendation-engine-scztvdmmgibvhmnyybuuha.streamlit.app/    <<<<<<<-----link------
 
 ## 🚀 Features
 - Input soil values (Soil type, pH, N, P, K, Zn, S).
